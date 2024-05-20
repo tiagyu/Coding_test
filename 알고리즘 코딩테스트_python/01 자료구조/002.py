@@ -1,4 +1,4 @@
-#평균 구하기
+#평균 구하기(백준 1546번)
 n = int(input())
 score = list(map(int,input().split()))
 score.sort()
